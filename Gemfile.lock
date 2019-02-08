@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    concurrent-ruby (1.1.4)
+    concurrent-ruby-edge (0.4.1)
+      concurrent-ruby (~> 1.1.1)
+    eventmachine (1.2.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  concurrent-ruby
+  concurrent-ruby-edge
+  eventmachine
+
+BUNDLED WITH
+   1.17.2
